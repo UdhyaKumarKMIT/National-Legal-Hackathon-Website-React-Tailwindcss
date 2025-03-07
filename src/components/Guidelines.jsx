@@ -1,6 +1,6 @@
 const Guidelines = () => {
     return (
-      <div className="flex flex-col items-center mt-6 lg:mt-20">
+      <div id="Guidelines" className="flex flex-col items-center mt-6 lg:mt-20">
         <h2 className="text-3xl sm:text-4xl lg:text-5xl text-center tracking-wide">
           Guidelines
         </h2>

@@ -1,6 +1,6 @@
 const Contacts = () => {
   return (
-    <div className="mt-20">
+    <div className="mt-20" id="contacts">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-8 tracking-wide">
         Contacts
       </h2>

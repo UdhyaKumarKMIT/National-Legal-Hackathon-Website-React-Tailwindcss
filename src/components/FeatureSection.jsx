@@ -3,7 +3,7 @@ import EventDetails from "./EventsDetails";
 
 const FeatureSection = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 ">
+    <div id="Theme" className="relative mt-20 border-b border-neutral-800 ">
       <div className="text-center">
 
         <EventDetails/>

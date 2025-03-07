@@ -3,7 +3,7 @@ import video2 from "../assets/video2.mp4";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col items-center mt-6 lg:mt-20">
+    <div  id="Home" className="flex flex-col items-center mt-6 lg:mt-20">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
         National Legal Hackathon 2025
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">

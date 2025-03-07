@@ -2,7 +2,7 @@ import { CalendarDays, MapPin, CreditCard, Clock, Trophy } from "lucide-react";
 
 const EventDetails = () => {
   return (
-    <div className="text-white  p-6 rounded-xl shadow-lg max-w-xl mx-auto mt-5">
+    <div id="EventDetails" className="text-white  p-6 rounded-xl shadow-lg max-w-xl min-h-150 mx-auto mt-5">
       <h2 className="text-3xl sm:text-5xl lg:text-5xl mt-10 lg:mt-20 tracking-wide text-center mb-10 ">📅 Event Details</h2>
       <div className="space-y-4 text-[1.4rem]">
         <div className="flex items-center gap-3">
