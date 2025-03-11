@@ -8,11 +8,11 @@ const HeroSection = () => {
         National Legal Hackathon 2025
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
           {" "}
-            An Innovation Hackathon in Legal
+            An Innovation Hackathon in Legal 
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-200 max-w-4xl">
-       This Legal Hackathon aims to foster innovation and collaboration within the society by leveraging AI technology to address the pressing Social Issues. Empower your creativity and bring your ideas to life in our
+       This Legal Hackathon aims to foster innovation and collaboration within the society by leveraging AI tools & technology to address the pressing Social Issues. Empower your creativity and bring your ideas to life in our
         AI X Law Hackathon
       </p>
       <div className="flex justify-center my-10">
