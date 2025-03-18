@@ -8,7 +8,7 @@ const HeroSection = () => {
         National Legal Hackathon 2025
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
           {" "}
-            An Innovation Hackathon in Legal for Engineering Students
+            An Innovation Hackathon in Legal for Students 
         </span>
       </h1>
       <p className="mt-10 lg text-center text-neutral-200 max-w-4xl">
