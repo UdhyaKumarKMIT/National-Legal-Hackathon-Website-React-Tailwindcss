@@ -13,7 +13,7 @@ const HeroSection = () => {
       </h1>
       <p className="mt-10 lg text-center text-neutral-200 max-w-4xl">
        This Legal Hackathon aims to foster innovation and collaboration within the society by leveraging AI tools & technology to address the pressing Social Issues. Empower your creativity and bring your ideas to life in our
-        AI X Law Hackathon
+        AI X Law Hackathon students
       </p>
       <div className="flex justify-center my-10">
       <a
